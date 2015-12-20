@@ -1,0 +1,29 @@
+{
+  "name": "bunniesandbeatings.github.io",
+  "version": "1.0.0",
+  "description": "![A Bunny.](./images/Bunny.png)",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.1.4",
+    "pui-css-all": "^2.0.0"
+  },
+  "devDependencies": {
+    "bootstrap": "^3.3.6",
+    "dr-frankenstyle": "^0.2.7",
+    "jquery": "^2.1.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bunniesandbeatings/bunniesandbeatings.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bunniesandbeatings/bunniesandbeatings.github.io/issues"
+  },
+  "homepage": "https://github.com/bunniesandbeatings/bunniesandbeatings.github.io#readme"
+}
