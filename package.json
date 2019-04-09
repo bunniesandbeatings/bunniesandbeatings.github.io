@@ -3,16 +3,8 @@
   "version": "1.0.0",
   "description": "![A Bunny.](./images/Bunny.png)",
   "main": "index.js",
-  "dependencies": {
-    "bootstrap": "^3.3.6",
-    "jquery": "^2.1.4",
-    "pui-css-all": "^2.0.0"
-  },
-  "devDependencies": {
-    "bootstrap": "^3.3.6",
-    "dr-frankenstyle": "^0.2.7",
-    "jquery": "^2.1.4"
-  },
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
